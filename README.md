@@ -37,7 +37,7 @@ npm i next@12.3.4
 プロジェクトのルートディレクトリに`.gitignore`ファイルを作成し、コピーした内容を貼り付ける  
 
 ### 方法2: コマンドラインツールを利用する  
-`gitignore.io`(https://www.toptal.com/developers/gitignore/)というサービスを利用して、簡単にカスタム`.gitignore`ファイルを生成できる  
+`gitignore.io`(https://www.toptal.com/developers/gitignore/ )というサービスを利用して、簡単にカスタム`.gitignore`ファイルを生成できる  
 
 コマンドラインで以下のコマンドを実行（例として、Node.jsとReactとNodeとASP.NETとそれぞれのOS環境のプロジェクト用の`.gitignore`を生成する場合）:
 ```
