@@ -1,6 +1,8 @@
 ## コマンド
 ```
-npx create-next-app@12.3.4 nextjs-project --typescript --eslint --use-npm
+npx create-next-app@12.3.4 nextjs-project-12-3-4 --typescript --eslint --use-npm
+cd nextjs-project-12-3-4
+npm i next@12.3.4
 ```
 
 ## 設定内容と利点
