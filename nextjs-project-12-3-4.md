@@ -33,6 +33,6 @@ npm i next@12.3.4
 
 また、以下のコマンドを実行してプロジェクトが正しく動作することを確認してください。
 ```
-cd nextjs-project
+cd nextjs-project-12-3-4
 npm run dev
 ```
